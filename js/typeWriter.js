@@ -1,8 +1,9 @@
 
 let i = 0;
-let text1 = "Happy 6 Months, Babygirl.";
-let text2 = "I want days to feel like months when I'm with you, but months feel like minutes. I promise to love you as I have loved you till now, but I'm afraid I can't keep that promise. For I love you more every passing hour, and I pray missing you doesn't kill me. I love you, the love, of my life 🫀."
-let speed = 100;
+let text1 = "Happy Valentine's Day, Babygirl 💗";
+let text2 = "Chellamae, from the moment I found your email and got you back, to every second of this past year, you’ve been the most beautiful, infuriating, hilarious, dirty, loving, and completely irresistible part of my life. We’ve laughed, argued, teased, and fallen apart only to come back stronger, always choosing each other.";
+let text3 = "You are my viking queen 👸🏻, my lil baby 🍼, my best friend 🤝, my filthy slut 🍯, and my entire heart 🫀. I love you more than words can hold, more than distance can stretch, more than time can measure. And no matter what, I will always, always be yours ♾️💕"
+let speed = 65;
 
 function typeWriter(text, para){
 	if(ok == 2){
