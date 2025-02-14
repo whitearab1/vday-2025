@@ -1,2 +1,2 @@
 # vday-2025
-https://whitearab1.github.io/6m-anniversary
+https://whitearab1.github.io/vday-2025/
